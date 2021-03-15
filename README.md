@@ -2,7 +2,7 @@
 This project uses the Ensemble method algorithms (Random Forest, AdaBoost, Gradient Boosting, XGBoost) to create predictions for individual income levels. Performance metrics are evaluated as well.
 
 ## Steps
- 1. Examining descriptive stats of the entire dataset
+ 1. Examinie descriptive stats of the entire dataset
  2. Create training and testing datasets
  3. Find Optimal Max_depth value
  4. Training models to run a specificed amount of decision trees (N_estimators):
